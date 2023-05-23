@@ -1,24 +1,8 @@
-# README
+# Social Media App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# About the Project
+This is an update of the Capstone Project I completed at Flatiron School.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Specifications
+* Ruby version: 2.7.4
+* npm version: 9.5.0
